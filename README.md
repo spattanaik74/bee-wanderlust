@@ -8,9 +8,11 @@
 
 In short a social media platform for traveler
 
-Traveler often faces many difficulties when they plan their journey
+Are you planning your next journey but feeling overwhelmed by the plethora of articles and vlogs? Fret not! Instead of sifting through endless content, simply post your query along with your destination here. Your post will be visible to locals and seasoned travelers of your destination country, who will gladly offer their expertise to enhance your trip.
 
-Rather than going through all blogs and vlogs, Just post your query here
+But, here's the twist: nothing comes for free. If you find the advice helpful, show your appreciation by liking the comments. This gesture ensures that the contributors receive rewards, which can be redeemed for various perks such as discounts at restaurants, flights, and hotels. And fear not, if you're lending a helping hand, you'll also earn rewards in return.
+
+Happy Travels! 🌍❤️
 
 ## Infrastructure Diagram of Beewanderlust
 
