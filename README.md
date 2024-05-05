@@ -76,8 +76,8 @@ Explore the comprehensive design
 
 ### Go to [https://www.beewanderlust.org]
 
-- **demo email**: 
-- **demo password**: 
+- **demo email**: sarthak@gmail.com
+- **demo password**: admin
 
 
 ## Web App walkthrough
